@@ -160,7 +160,7 @@ Parses PDF documents.
 
 Curl command:
 ```
-curl -X POST -F "file=@/path/to/document.pdf" http://localhost:8000/parse_document/pdf
+curl -X POST -F "file=@/path/to/document.pdf" http://localhost:5200/parse_document/pdf
 ```
 
 #### Parse PowerPoint
